@@ -1,5 +1,4 @@
 <h1 align="center">Eronaldo Coelho</h1>
-
 <p align="center">
 Full Stack Developer<br>
 Laravel • MySQL • Kotlin • Java • Flutter • APIs • Automação • VPS
@@ -8,130 +7,58 @@ Laravel • MySQL • Kotlin • Java • Flutter • APIs • Automação • V
 ---
 
 ## Sobre mim
-
-Sou desenvolvedor de sistemas com experiência na criação de aplicações web, aplicativos Android e integrações com APIs.
-
-Atualmente atuo como **Desenvolvedor Full Stack na Japedido Software LTDA**, desenvolvendo sistemas, aplicativos e automações para lojas e sistemas comerciais.
-
-Também possuo experiência com **administração de servidores VPS Linux e Windows**, configuração de ambientes, hospedagem de sistemas web, APIs e gerenciamento de infraestrutura.
+Sou desenvolvedor de sistemas com experiência na criação de aplicações web, apps Android e integração de APIs.  
+Atualmente atuo como **Desenvolvedor Full Stack na Japedido Software LTDA**.
 
 ---
 
 ## Tecnologias
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,kotlin,java,dart,linux,windows,git" />
 </p>
-
----
-
-## Infraestrutura e Servidores
-
-Experiência com configuração e gerenciamento de servidores VPS para hospedagem de aplicações e APIs.
-
-- Servidores **Linux (Ubuntu / Debian)**
-- Servidores **Windows Server**
-- Deploy de aplicações **Laravel**
-- Configuração de **Nginx e Apache**
-- Configuração de **MySQL**
-- Hospedagem de **APIs e sistemas web**
-- Gerenciamento de **VPS e infraestrutura**
-- Automação e integração entre sistemas
 
 ---
 
 ## Projetos
 
 ### ValeIA
-Sistema de gestão de vales corporativos para empresas.
-
-Permite gerenciar vales de funcionários, registrar compras e analisar comprovantes utilizando inteligência artificial para identificar possíveis compras indevidas.
-
-Tecnologias:
-
-Laravel  
-MySQL  
-APIs  
-Inteligência Artificial  
-
-Site  
-https://valeia.com.br
-
----
+Sistema de gestão de vales corporativos com análise inteligente de comprovantes utilizando IA.  
+**Tecnologias:** Laravel, MySQL, APIs, Inteligência Artificial  
+[🌐 Ver Projeto](https://valeia.com.br)
 
 ### CoelhoVPS
-Plataforma de hospedagem de sites e gerenciamento de infraestrutura web.
-
-Permite hospedar sites, gerenciar bancos de dados e administrar recursos de servidores.
-
-Tecnologias:
-
-Laravel  
-MySQL  
-APIs  
-Linux  
-
-Site  
-https://coelhovps.com.br
-
----
+Plataforma de hospedagem de sites e gerenciamento de infraestrutura web.  
+**Tecnologias:** Laravel, MySQL, APIs, Linux  
+[🌐 Ver Projeto](https://coelhovps.com.br)
 
 ### UmForm
-Sistema web para criação e gerenciamento de formulários online.
-
-Permite criar formulários personalizados para coleta de dados e gerenciamento de respostas.
-
-Tecnologias:
-
-Laravel  
-MySQL  
-APIs  
-
-Site  
-https://umform.com.br
-
----
+Plataforma web para criação e gerenciamento de formulários online.  
+**Tecnologias:** Laravel, MySQL, APIs  
+[🌐 Ver Projeto](https://umform.com.br)
 
 ### RastroAtivo
-Aplicativo mobile desenvolvido em Flutter para monitoramento de atividades físicas.
+App mobile open-source para monitoramento de caminhadas e análises de IA.  
+**Tecnologias:** Flutter, GPS, Sensores, APIs, IA  
+[🌐 GitHub](https://github.com/eronaldo-coelho/RastroAtivo)
 
-O aplicativo coleta dados do usuário como peso e altura e utiliza sensores do dispositivo para gerar análises detalhadas de caminhadas e corridas.
-
-Funcionalidades:
-
-- Monitoramento de corridas e caminhadas
-- Cálculo de perda de peso estimada
-- GPS com localização precisa
-- Sensor de movimento
-- Monitoramento de temperatura
-- Análises com inteligência artificial
-
-Tecnologias:
-
-Flutter  
-Sensores do dispositivo  
-GPS  
-APIs  
-Inteligência Artificial
+### Boleo
+App open-source para assistir futebol, filmes, séries e reality shows ao vivo.  
+**Tecnologias:** Dart, Flutter  
+[🌐 GitHub](https://github.com/eronaldo-coelho/Boleo) | [📥 Baixar APK](https://drive.google.com/)
 
 ---
 
 ## Experiência
-
-**Desenvolvedor Full Stack — Japedido Software LTDA**
-
-Mais de 1 ano desenvolvendo:
-
-- Sistemas web completos
-- Aplicativos Android
-- Bots de WhatsApp
-- Integrações com APIs externas
-- Automação de processos empresariais
-- Deploy e hospedagem em servidores VPS
+**Desenvolvedor Full Stack — Japedido Software LTDA**  
+- Sistemas web completos  
+- Apps Android  
+- Bots de WhatsApp  
+- Integrações de APIs  
+- Automação de processos  
+- Deploy e hospedagem em VPS
 
 ---
 
 ## Contato
-
-Email  
-eronaldo@coelhovps.com.br
+- 📧 Email: eronaldo@coelhovps.com.br  
+- 🔗 LinkedIn: [Eronaldo Coelho](https://www.linkedin.com/in/eronaldo-coelho-184346394/)
