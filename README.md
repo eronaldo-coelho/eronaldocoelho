@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E35AQE6Ared0-u5dw/profile-framedphoto-shrink_800_800/B4EZyC2zTWJ8Ak-/0/1771721930265?e=1773777600&v=beta&t=XLbUDShWOK_HV7_mgW2Sph7vH21JiYMk5gFnuCzVGsI" width="150" alt="Eronaldo Coelho">
+  <img src="https://media.licdn.com/dms/image/v2/D4E35AQE6Ared0-u5dw/profile-framedphoto-shrink_800_800/B4EZyC2zTWJ8Ak-/0/1771721930265?e=1773777600&v=beta&t=XLbUDShWOK_HV7_mgW2Sph7vH21JiYMk5gFnuCzVGsI" 
+       width="150" 
+       alt="Eronaldo Coelho" 
+       style="border-radius:50%; border: 3px solid #27ae60;">
 </p>
 
 <h1 align="center">Eronaldo Coelho</h1>
