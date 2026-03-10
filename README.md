@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E35AQE6Ared0-u5dw/profile-framedphoto-shrink_800_800/B4EZyC2zTWJ8Ak-/0/1771721930265?e=1773777600&v=beta&t=XLbUDShWOK_HV7_mgW2Sph7vH21JiYMk5gFnuCzVGsI" 
-       width="150" 
-       alt="Eronaldo Coelho" 
-       style="border-radius:50%; border: 3px solid #27ae60;">
+  <img src="https://media.licdn.com/dms/image/v2/D4E35AQE6Ared0-u5dw/profile-framedphoto-shrink_800_800/B4EZyC2zTWJ8Ak-/0/1771721930265?e=1773777600&v=beta&t=XLbUDShWOK_HV7_mgW2Sph7vH21JiYMk5gFnuCzVGsI" width="150" alt="Eronaldo Coelho">
 </p>
 
 <h1 align="center">Eronaldo Coelho</h1>
@@ -24,9 +21,17 @@ Também possuo experiência com **administração de servidores VPS Linux e Wind
 
 ## Tecnologias
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,flutter,kotlin,java,dart,linux,windows,git" width="40" />
+<img src="https://skillicons.dev/icons?i=laravel" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=dart" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=windows" width="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="60" />
 </p>
-
 ---
 
 ## Infraestrutura e Servidores
