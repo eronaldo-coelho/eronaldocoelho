@@ -17,8 +17,6 @@ Atualmente atuo como **Desenvolvedor Full Stack na Japedido Software LTDA**.
 
 Também possuo experiência com **administração de servidores VPS Linux e Windows**, configuração de ambientes, hospedagem de sistemas web, APIs e gerenciamento de infraestrutura.
 
----
-
 ## Tecnologias
 <p align="center">
 <img src="https://skillicons.dev/icons?i=laravel" width="60" />&nbsp;&nbsp;
@@ -32,7 +30,8 @@ Também possuo experiência com **administração de servidores VPS Linux e Wind
 <img src="https://skillicons.dev/icons?i=windows" width="60" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git" width="60" />
 </p>
----
+
+<hr>
 
 ## Infraestrutura e Servidores
 Experiência com configuração e gerenciamento de servidores VPS para hospedagem de aplicações e APIs.
