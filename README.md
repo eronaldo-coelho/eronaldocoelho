@@ -6,7 +6,7 @@
 
 <p align="center">
 Desenvolvedor Full Stack<br>
-Laravel • MySQL • Kotlin • Java • Flutter • APIs •Python • Node.js • Automação • VPS
+Laravel • MySQL • Kotlin • Java • Flutter • APIs • Python • Node.js • Automação • VPS
 </p>
 
 ---
