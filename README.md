@@ -5,8 +5,8 @@
 <h1 align="center">Eronaldo Coelho</h1>
 
 <p align="center">
-Full Stack Developer<br>
-Laravel • MySQL • Kotlin • Java • Flutter • APIs • Automação • VPS
+Desenvolvedor Full Stack<br>
+Laravel • MySQL • Kotlin • Java • Flutter • APIs •Python • Node.js • Automação • VPS
 </p>
 
 ---
